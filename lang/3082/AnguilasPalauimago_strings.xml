@@ -1,0 +1,122 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <AnguilasPalauimago>Anguila de Palau</AnguilasPalauimago>
+      <AnguilasPalauimago_stt>Anguila de Palau</AnguilasPalauimago_stt>
+      <AnguilasPalauimago_lower>La Anguila de Palau</AnguilasPalauimago_lower>
+      <AnguilasPalauimago_ltt>
+         <color r="255" g="248" b="178">
+            <b>Anguila de Palau</b>
+         </color>
+         <br/>
+         Click para seleccionar y colocar un Anguila de Palau, un fosil viviente.
+      </AnguilasPalauimago_ltt>
+</entityname>
+<zoopedia_anguilaspalauimago>
+ <entry>Anguila de Palau</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AnguilasPalauimago/AnguilasPalauimago_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/LowRisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="254" b="223">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="128" b="0">
+                      No evaluado
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Arrecife<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Palau<br/></color> 
+     <img src="ui/icon_maplocations/reef_indian_pacific_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Actinopterygii <i></i><br/>Orden: Anguilliformes <i></i><br/>Familia: Protanguillidae <i></i><br/>Genero: <i>Protanguilla</i><br/>Especie: <i>P. palau</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Curiosidades de la Anguila de Palau</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Se considera un fossil viviente, ya que es la mas vieja conocida.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es la unica especie de su familia.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Vive en grutas submarinas.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">El significado de su genero es primera anguila.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear la Anguila de Palau en modos campaña y desafio, debes conseguir 3 estrellas de fama en tu zoo. 
+   </color>
+   <p/>Ha sido descubierta en la oscuridad de una cueva submarina y se ha considerado como un completo fósil viviente, asombrando a la comunidad científica, pues esta anguila es asombrosamente similar a las primeras anguilas que aparecieron hace 200 millones de años.El descubrimiento como siempre se hizo hace ya bastante tiempo, en concreto el año 2010, pero es ahora cuando se divulga de forma generalizada. Se descubrió en una gruta submarina a 35 metros de profundidad en los arrecifes de una isla del estado occidental del Pacífico de Palau. La pequeña anguila tiene sólo unas pocas características de las anguilas modernas de las que se conocen 819 especies que se agrupan en 19 familias. Pero por el contrario tiene muchas características con las anguilas primitivas que vivieron en la Tierra en la época mesozoica temprana, cuando los dinosaurios dominaban la tierra. Entre estas similitudes se destacan una cabeza desproporcionadamente grande, un cuerpo comprimido y corto, un cuello con aberturas a modo de branquias, rayas en la aleta caudal y un hueso en la mandíbula llamado premaxilar. La anguila es tan especial que no sólo ha sido creado una nueva especie para esta denominada Protoanguilla palau sino que además se ha creado toda una nueva familia taxonómica para ella, la Protoanguillidae. El nombre proviene de la palabra griega “proto” que significa “en primer lugar” y la palabra latina anguila. El descubrimiento fue realizado en marzo del año 2010 por un equipo dirigido por Masaki Miya del Museo de Historia Natural y el Instituto Chiba de Japón.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de:<color r="255" g="231" b="135">http://esencia21.wordpress.com-Fishbase</color> Imago
+  </cell>
+ </text>
+</zoopedia_anguilaspalauimago>
+</ZT2Strings>

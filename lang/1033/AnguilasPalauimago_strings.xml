@@ -1,0 +1,122 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <AnguilasPalauimago>Palau eel</AnguilasPalauimago>
+      <AnguilasPalauimago_stt>Palau eel</AnguilasPalauimago_stt>
+      <AnguilasPalauimago_lower>The Palau eel</AnguilasPalauimago_lower>
+      <AnguilasPalauimago_ltt>
+         <color r="255" g="248" b="178">
+            <b>Palau eel</b>
+         </color>
+         <br/>
+         Click to select and place the Palau eel, a living fossil.
+      </AnguilasPalauimago_ltt>
+</entityname>
+<zoopedia_anguilaspalauimago>
+ <entry>Palau eel</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/AnguilasPalauimago/AnguilasPalauimago_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/LowRisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="254" b="223">
+                     State of conservation:
+                     <br/>
+                        <color r="255" g="128" b="0">
+                      Not evaluated
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Reef<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Palau<br/></color> 
+     <img src="ui/icon_maplocations/reef_indian_pacific_oceans.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Actinopterygii <i></i><br/>Order: Anguilliformes <i></i><br/>Family: Protanguillidae <i></i><br/>Gender: <i>Protanguilla</i><br/>Species: <i>P. palau</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun facts of Palau eel</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It is considered a living fossil because it is the oldest known.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It is the only species of its family.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Live in underwater caves.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The meaning of its kind is the first eel.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Palau eel in campaign and challenge modes, you get 3 stars in your zoo fame. 
+   </color>
+   <p/>It has been discovered in the darkness of an underwater cave and has been considered as a complete living fossil, astonishing the scientific community, as this eel is strikingly similar to the first eels appeared about 200 million years.The discovery as they always did for quite some time, namely 2010, but now it is reported widely. It was discovered in an underwater cave 35 meters deep on an island reefs western Pacific state of Palau. The small eel has only a few features of modern eels of 819 known species are grouped into 19 families. But the system has many features with primitive eels that lived on Earth in the early Mesozoic era when dinosaurs ruled the earth. These similarities include a disproportionately large head, a compressed body and short neck with gill-like openings, the caudal fin rays and a bone in the jaw called premaxilla. The eel is so special that not only created a new species is named Protoanguilla palau but also has created a whole new taxonomic family for it, Protoanguillidae. The name comes from the Greek word "proto" which means "first" and the Latin word for eel. The discovery was made in March 2010 by a team led by Masaki Miya of the Natural History Museum and Institute Chiba Japan.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content of:<color r="255" g="231" b="135">http://esencia21.wordpress.com-Fishbase</color> Imago
+  </cell>
+ </text>
+</zoopedia_anguilaspalauimago>
+</ZT2Strings>

@@ -1,0 +1,35 @@
+<BFTypedBinder binderType="AnguilasPalauimago_Adult_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Carcharhiniformes>
+                     <Carcharhinidae>
+                        <AnguilasPalauimago>
+                           <AnguilasPalauimago_Adult>
+                              <AnguilasPalauimago_Adult_M/>
+                           </AnguilasPalauimago_Adult>
+                        </AnguilasPalauimago>
+                     </Carcharhinidae>
+                  </Carcharhiniformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\AnguilasPalauimago\AnguilasPalauimago_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="AnguilasPalauimago_Adult_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1"/>
+   </shared>
+</BFTypedBinder>
